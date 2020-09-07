@@ -170,7 +170,7 @@ a:active {
   height: 100vh;
   width: 100vw;
   background-color: #12181B;
-  margin-top: -53px;
+  margin-top: -95px;
 }
 
 .bg-content{
@@ -661,7 +661,7 @@ fieldset {
 
 @media all and (min-width: 600px) {
   h1 {
-    font-size: 2.5rem;
+    font-size: 1rem;
   }
   
   header {
@@ -689,12 +689,12 @@ fieldset {
     margin-left: 20px;
   }
 
-  .item-splash {
-    text-shadow: 1px 1px 2px #1a2224;
-  }
-
   .group {
     flex-direction: row;
+  }
+
+  .bg-home{
+    margin-top: -53px;
   }
 
 }
