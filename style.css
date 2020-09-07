@@ -54,7 +54,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin-bottom:0px;
 }
 
@@ -72,7 +72,7 @@ h4 {
 header {
   background-color: transparent;
   position: sticky;
-  top: 0;
+  /* top: 0; */
   transition: all .5s ease-in-out;
   z-index: 10;
 }
@@ -660,8 +660,8 @@ fieldset {
 /* media queries */
 
 @media all and (min-width: 600px) {
-  h1 {
-    font-size: 1rem;
+  h2 {
+    font-size: 2rem;
   }
   
   header {
