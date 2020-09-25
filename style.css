@@ -174,17 +174,6 @@ a:active {
   width: 100vw;
   /* background-color: #12181B; */
   margin-top: -105px;
-  border-bottom:1px solid #790e8b;
-}
-
-.parallax {
-  min-height: 100%; 
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .bg-content{
@@ -251,6 +240,7 @@ iframe {
   position:absolute;
   border:solid 0px #000;
   z-index: 0;
+  border-bottom:1px solid #790e8b;
 }
 
 /* footer */
