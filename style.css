@@ -177,16 +177,6 @@ a:active {
   border-bottom:1px solid #790e8b;
 }
 
-.parallax {
-  min-height: 100%; 
-
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 .bg-content{
   align-items: center;
   display: flex;
@@ -194,7 +184,7 @@ a:active {
   justify-content: center;
   /* background-color: #12181B; */
 }
-
+ 
 .group {
   display: flex;
   flex-direction: column;
