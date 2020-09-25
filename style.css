@@ -77,11 +77,11 @@ header {
   z-index: 10;
 }
 
-.scroll {
+/* .scroll {
   background-color:#263238;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
   scroll-behavior: smooth;
-}
+} */
 
 header h1 {
   color: #e6ffff;
@@ -159,6 +159,7 @@ a:active {
 
 .wrapper {
   width:80%;
+  max-width: 1400px;
   padding:50px;
 }
 
@@ -170,7 +171,7 @@ a:active {
   height: 100vh;
   width: 100vw;
   background-color: #12181B;
-  margin-top: -115px;
+  margin-top: -105px;
 }
 
 .bg-content{
