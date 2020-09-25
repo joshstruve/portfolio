@@ -35,7 +35,6 @@ html, body {
   background-image: url("./img/bg2.png");
   background-repeat: repeat;
   color: white;
-  overflow-x: hidden;
 }
 
 hr {
