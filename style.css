@@ -182,6 +182,7 @@ a:active {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  overflow: hidden;
   /* background-color: #12181B; */
 }
 
