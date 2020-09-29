@@ -36,6 +36,7 @@ html, body {
   background-repeat: repeat;
   background-attachment: fixed;
   color: white;
+  overflow-x:hiden;
 }
 
 hr {
