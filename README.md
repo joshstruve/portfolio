@@ -1,2 +1,2 @@
 # portfolio
-2020 portfolio
+JSTRUVE.DEV // 2022
